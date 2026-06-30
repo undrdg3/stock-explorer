@@ -1,0 +1,14 @@
+# Clean, professional theme for the Equity Performance Dashboard.
+# A neutral blue accent keeps the semantic green (gains) / red (losses)
+# colors in the data unambiguous. Light base matches the plotly_white charts.
+
+[theme]
+base = "light"
+primaryColor = "#2563eb"             # accent: selected pills, slider, focus rings
+backgroundColor = "#ffffff"          # main canvas — matches the white charts
+secondaryBackgroundColor = "#f1f5f9" # cards/containers, table header, code blocks
+textColor = "#0f172a"                # slate-900 for high-contrast, readable text
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
