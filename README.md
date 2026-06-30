@@ -4,7 +4,7 @@ A professional stock-performance web app comparing AAPL, MSFT, GOOG, AMZN, META,
 
 ## Live app
 
-> Deploy link goes here once live on Streamlit Cloud.
+> [https://stock-explorer-matej.streamlit.app](https://stock-explorer-matej.streamlit.app)
 
 ## Features
 
